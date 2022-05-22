@@ -1,1 +1,0 @@
-# pristatymas-config-get-server
